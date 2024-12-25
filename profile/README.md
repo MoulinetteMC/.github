@@ -97,7 +97,7 @@ Vous pouvez maintenant cliquer sur `Ok`. Patientez le temps que le launcher cré
 
 ## S’authentifier via discord
 
-Avant de pouvoir vous connecter au serveur, il vous reste une dernière étape. Vous devez vous **authentifier**. Pour ce faire, aller sur le **serveur discord de la A1**. Utilisez la commande `/register` dans n’importe quel salon, suivie votre **nom d’utilisateur Minecraft**. Normalement, le bot GPTlaMouli devrait répondre “Registred !” comme ci-dessous :
+Avant de pouvoir vous connecter au serveur, il vous reste une dernière étape. Vous devez vous **authentifier**. Pour ce faire, aller sur le **serveur discord de la A1**. Vérifiez que vous possédez bien le rôle `#GPTlaMouli`, si ce n'est pas le cas, demandez le à @lomination ou @valentin_kh dans le salon `#moulinette`. Utilisez ensuite la commande `/register` dans n’importe quel salon, suivie votre **nom d’utilisateur Minecraft**. Normalement, le bot GPTlaMouli devrait répondre “Registred !” comme ci-dessous :
 
 ![image.png](assets/image-8.png)
 
