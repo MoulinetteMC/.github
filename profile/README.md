@@ -77,7 +77,7 @@ Il faut maintenant que vous configuriez une nouvelle instance de Minecraft sur v
 
 Commencez par **télécharger le modpack** si dessous. Il contient tous les mods pour pouvoir jouer sur le serveur. **Vous ne devez pas l’unzip**, votre launcher s’en charge pour vous.
 
-[MoulinetteMC.zip](assets/MoulinetteMC.zip)
+[gamefiles-main.zip](https://github.com/moulinettemc/gamefiles/archive/refs/heads/main.zip)
 
 Allez ensuite sur l’écran d’accueil de votre launcher. Cliquez sur le bouton `Add Instance` en haut à gauche de votre écran. Une nouvelle fenêtre devrait s’afficher sur votre écran :
 
@@ -85,7 +85,7 @@ Allez ensuite sur l’écran d’accueil de votre launcher. Cliquez sur le bouto
 | -------------------------------- | -------------------------------- |
 | ![image.png](assets/image-4.png) | ![image.png](assets/image-5.png) |
 
-Cliquez sur `Import` depuis le menu vertical de gauche. Puis, cliquer sur le bouton `Browse` pour parcourir vos fichiers. **Sélectionnez ensuite le modpack MoulinetteMC.zip** précédemment téléchargé.
+Cliquez sur `Import` depuis le menu vertical de gauche. Puis, cliquer sur le bouton `Browse` pour parcourir vos fichiers. **Sélectionnez ensuite le modpack gamefiles-main.zip** précédemment téléchargé.
 
 Enfin, si vous le souhaitez, vous pouvez **donner un nom** (celui que vous voulez) à votre instance en haut de la fenêtre. Vous devriez obtenir quelque chose qui ressemble à ça :
 
