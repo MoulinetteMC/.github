@@ -122,7 +122,7 @@ Cliquez sur `Yes` et revenez sur Minecraft.
 
 **Veuillez ne pas accepter une demande de connexion qui ne vient pas de vous !**
 
-Lors de la première connexion ou lorsque le modpack a été mis à jour, un court chargement apparaîtra accompagné d’une douce musique 🎵. Les mods seront simplement en train d’être synchronisé avec le serveur.
+Lors de la première connexion ou lorsque le modpack a été mis à jour, un court chargement apparaîtra accompagné d’une douce musique 🎵. Les mods seront simplement en train d’être synchronisé avec le serveur. Une fois le chargement terminé, vous devez relancer votre jeu pour charger les mods qui viennent d'être téléchargés.
 
 Vous êtes maintenant connecté et vous pouvez jouer ! Amusez-vous bien !
 
