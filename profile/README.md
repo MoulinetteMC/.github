@@ -32,6 +32,7 @@ Il est possible d’utiliser de nombreux launcher. Cependant, nous allons nous c
 
   </summary>
   <p><blockquote>
+
   Pour commencer, rendez-vous sur le [**site de Prism**](https://prismlauncher.org/download/). Sélectionnez votre OS (Linux, macOS, Windows) et **suivez les instructions d'installation**.
 
   Une fois l'installation terminée, lancez PrismMC. Le launcher vous demandera de vous authentifier. **Connectez-vous** à votre compte Microsoft sur lequel Minecraft est installé.
@@ -39,6 +40,7 @@ Il est possible d’utiliser de nombreux launcher. Cependant, nous allons nous c
   Vous devriez ensuite tomber sur cette page :
 
   ![image.png](assets/image-0.png)
+  
   </blockquote></p>
 </details>
 
@@ -49,6 +51,7 @@ Il est possible d’utiliser de nombreux launcher. Cependant, nous allons nous c
 
   </summary>
   <p><blockquote>
+
   Pour commencer, rendez-vous sur le [**github de UltimMC**](https://github.com/UltimMC/Launcher?tab=readme-ov-file#downloading). Téléchargez UltimMC en cliquant sur votre OS (Linux, macOS, Windows), puis unzippez le launcher à l’endroit de votre choix.
 
   Une fois l’installation terminée, lancez UltimMC. Vous devriez ensuite tombez sur cette page :
@@ -64,6 +67,7 @@ Il est possible d’utiliser de nombreux launcher. Cependant, nous allons nous c
   Vous devriez voir votre nom d’utilisateur apparaître en haut à droite de votre écran à la place de `Profiles` comme ci-dessous :
 
   ![image.png](assets/image-3.png)
+  
   </blockquote></p>
 </details>
 
@@ -131,6 +135,7 @@ Vous êtes maintenant connecté et vous pouvez jouer ! Amusez-vous bien !
   
   </summary>
   <p><blockquote>
+
   Il arrive que le jeu crash lors du chargement de Minecraft à cause d’un manque RAM. Pour résoudre ce problème, allez dans les paramètres de l’instance (sélectionnez l’instance dans votre launcher et cliquez `Edit` sur PrismMC ou `Edit Instance` sur UltimMC), dans l’onglet `Settings` puis `Java`. Modifiez la valeur `Maximum memory allocation` à 2000 megaoctets (soit 2 gigaoctets) ou plus.
 
   | PrismMC                           | UltimMC                           |
@@ -138,6 +143,7 @@ Vous êtes maintenant connecté et vous pouvez jouer ! Amusez-vous bien !
   | ![image.png](assets/image-11.png) | ![image.png](assets/image-12.png) |
   
   Relancez votre jeu et le problème devrait disparaître !
+  
   </blockquote></p>
 </details>
 
@@ -148,6 +154,8 @@ Vous êtes maintenant connecté et vous pouvez jouer ! Amusez-vous bien !
 
   </summary>
   <p><blockquote>
+
   PrismMC semble avoir une drôle de gestion de dépendances. Si vous rencontrez des problèmes de drivers ou de libraries telles que libstdc++ qui ne sont pas trouvés ou pas dans la bonne version, contactez @lomination. Il pourra peut-être vous aider.
+  
   </blockquote></p>
 </details>
