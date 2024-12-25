@@ -23,7 +23,7 @@ Si vous rencontrez des problèmes, n’hésitez pas à contacter @lomination ou 
 
 ## Installer un launcher
 
-Il est possible d’utiliser de nombreux launcher. Cependant, nous allons nous concentrer sur deux d’entre eux : PrismMC et UltimMC. Nous vous **conseillons fortement d’utiliser PrismMC** sauf dans le cas où vous ne disposez pas de compte Microsoft avec Minecraft dessus. Dans ce cas, utilisez UltimMC.
+Il est possible d’utiliser de nombreux launchers. Cependant, nous allons nous concentrer sur deux d’entre eux : PrismMC et UltimMC. Nous vous **conseillons fortement d’utiliser PrismMC** sauf dans le cas où vous ne disposez pas de compte Microsoft avec Minecraft dessus. Dans ce cas, utilisez UltimMC.
 
 <details name="issue">
   <summary>
