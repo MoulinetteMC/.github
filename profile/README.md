@@ -17,6 +17,9 @@ Si vous rencontrez des problèmes, n’hésitez pas à contacter @lomination ou 
 - [Troubleshooting](#troubleshooting)
   - [Crash au lancement à cause d’une OutOfMemoryError](#crash-au-lancement-à-cause-dune-outofmemoryerror)
   - [PrismMC Linux : drivers ou libraries non trouvées](#prismmc-linux--drivers-ou-libraries-non-trouvées)
+- [FAQ](#faq)
+  - [Peut-on jouer en crack ?](#peut-on-jouer-en-crack-)
+  - [GPTlaMouli : comment se renommer / changer le pseudo minecraft lié à son compte discord ?](#gptlamouli--comment-se-renommer--changer-le-pseudo-minecraft-lié-à-son-compte-discord-)
 
 
 # Installation
@@ -97,9 +100,12 @@ Vous pouvez maintenant cliquer sur `Ok`. Patientez le temps que le launcher cré
 
 ## S’authentifier via discord
 
-Avant de pouvoir vous connecter au serveur, il vous reste une dernière étape. Vous devez vous **authentifier**. Pour ce faire, aller sur le **serveur discord de la A1**. Vérifiez que vous possédez bien le rôle `#GPTlaMouli`, si ce n'est pas le cas, demandez le à @lomination ou @valentin_kh dans le salon `#moulinette`. Utilisez ensuite la commande `/register` dans n’importe quel salon, suivie votre **nom d’utilisateur Minecraft**. Normalement, le bot GPTlaMouli devrait répondre “Registred !” comme ci-dessous :
+Avant de pouvoir vous connecter au serveur, il vous reste une dernière étape. Vous devez vous **authentifier**. Pour ce faire, aller sur le **serveur discord de la A1**. Vérifiez que vous possédez bien le rôle `#GPTlaMouli`, si ce n'est pas le cas, demandez le à @lomination ou @valentin_kh dans le salon `#🧭▸moulinette`. Utilisez ensuite la commande `/register` dans n’importe quel salon, suivie votre **nom d’utilisateur Minecraft**. Normalement, le bot GPTlaMouli devrait répondre “Registred !” comme ci-dessous :
 
 ![image.png](assets/image-8.png)
+
+> [!NOTE]
+> La commande `/register` ne doit être utilisé qu'une seule fois. [Il est cependant possible de se rename.](#gptlamouli--comment-se-renommer--changer-le-pseudo-minecraft-lié-à-son-compte-discord-)
 
 Et voilà ! Vous êtes maintenant authentifié !
 
@@ -156,6 +162,37 @@ Vous êtes maintenant connecté et vous pouvez jouer ! Amusez-vous bien !
   <p><blockquote>
 
   PrismMC semble avoir une drôle de gestion de dépendances. Si vous rencontrez des problèmes de drivers ou de libraries telles que libstdc++ qui ne sont pas trouvés ou pas dans la bonne version, contactez @lomination. Il pourra peut-être vous aider.
+  
+  </blockquote></p>
+</details>
+
+# FAQ
+
+<details name="question">
+  <summary>
+  
+  ## Peut-on jouer en crack ?
+
+  </summary>
+  <p><blockquote>
+
+  Oui, il vous suffit d'utiliser UltimMC au lieu de PrismMC.
+  
+  </blockquote></p>
+</details>
+
+<details name="question">
+  <summary>
+  
+  ## GPTlaMouli : comment se renommer / changer le pseudo minecraft lié à son compte discord ?
+
+  </summary>
+  <p><blockquote>
+
+  Si vous vous êtes trompé de nom lors du `/register` ou que vous souhaitez jouer avec un autre compte minecraft, vous pouvez vous renommer. Pour cela, utilisez la command `/rename` suivie de votre nouveau nom Minecraft.
+
+  > [!NOTE]
+  > Utiliser à nouveau la commande `/register` produira une erreur de ne fonctionnera pas. Le `/register` ne doit être utilisé qu'une seule fois.
   
   </blockquote></p>
 </details>
