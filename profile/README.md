@@ -191,8 +191,7 @@ Vous êtes maintenant connecté et vous pouvez jouer ! Amusez-vous bien !
 
   Si vous vous êtes trompé de nom lors du `/register` ou que vous souhaitez jouer avec un autre compte minecraft, vous pouvez vous renommer. Pour cela, utilisez la command `/rename` suivie de votre nouveau nom Minecraft.
 
-  > [!NOTE]
-  > Utiliser à nouveau la commande `/register` produira une erreur de ne fonctionnera pas. Le `/register` ne doit être utilisé qu'une seule fois.
+  Notez qu'utiliser à nouveau la commande `/register` produira une erreur de ne fonctionnera pas. Le `/register` ne doit être utilisé qu'une seule fois.
   
   </blockquote></p>
 </details>
