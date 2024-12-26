@@ -19,7 +19,7 @@ Si vous rencontrez des problèmes, n’hésitez pas à contacter @lomination ou 
   - [PrismMC Linux : drivers ou libraries non trouvées](#prismmc-linux--drivers-ou-libraries-non-trouvées)
 - [FAQ](#faq)
   - [Peut-on jouer en crack ?](#peut-on-jouer-en-crack-)
-  - [GPTlaMouli : comment se renommer / changer le pseudo minecraft lié à son compte discord ?](#gptlamouli--comment-se-renommer--changer-le-pseudo-minecraft-lié-à-son-compte-discord-)
+  - [Comment changer le pseudo minecraft lié à son compte discord ?](#comment-changer-le-pseudo-minecraft-lié-à-son-compte-discord-)
 
 
 # Installation
@@ -105,7 +105,7 @@ Avant de pouvoir vous connecter au serveur, il vous reste une dernière étape. 
 ![image.png](assets/image-8.png)
 
 > [!NOTE]
-> La commande `/register` ne doit être utilisé qu'une seule fois. [Il est cependant possible de se rename.](#gptlamouli--comment-se-renommer--changer-le-pseudo-minecraft-lié-à-son-compte-discord-)
+> La commande `/register` ne doit être utilisé qu'une seule fois. [Il est cependant possible de se rename.](#comment-changer-le-pseudo-minecraft-lié-à-son-compte-discord-)
 
 Et voilà ! Vous êtes maintenant authentifié !
 
@@ -184,7 +184,7 @@ Vous êtes maintenant connecté et vous pouvez jouer ! Amusez-vous bien !
 <details name="question">
   <summary>
   
-  ## GPTlaMouli : comment se renommer / changer le pseudo minecraft lié à son compte discord ?
+  ## Comment changer le pseudo minecraft lié à son compte discord ?
 
   </summary>
   <p><blockquote>
