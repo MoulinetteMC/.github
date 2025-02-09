@@ -71,8 +71,7 @@ Il est possible d’utiliser de nombreux launchers. Cependant, nous allons nous 
 
   Choisissez la langue de votre choix.
 
-  > [!WARNING]
-  > Veillez à selecionner la version 17 de Java, le modpack de la MoulinetteMC n'étant compatible qu'avec cette version.
+  **Veillez à selecionner la version 17 de Java, le modpack de la MoulinetteMC n'étant compatible qu'avec cette version.**
 
   Connectez vous ensuite à votre compte Minecraft / Microsoft en suivant les instructions à l'écran.
 
