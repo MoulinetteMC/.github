@@ -4,12 +4,16 @@ Ce document a pour but d’expliquer comment se connecter à la MouliMC.
 
 La partie d’installation ne devrait être faite **qu’une seule fois** (à moins que vous ayez réinstallé votre launcher). La partie “Jouer” décrit les instructions qui devront être répétées **à chaque fois que vous voulez vous connecter** au serveur.
 
+> [!NOTE]
+> Dans le cas ou vous jouez sur les ordinateurs du PIE, l'installation devra être réalisée à chaque fois puisque Prism launcher n'est pas installé dans l'afs.
+
 Si vous rencontrez des problèmes, n’hésitez pas à contacter @lomination ou @valentin_kh sur discord !
 
 - [MouliMc tuto](#moulimc-tuto)
 - [Installation](#installation)
   - [Installer un launcher](#installer-un-launcher)
     - [PrismMC (officiel)](#prismmc-officiel)
+    - [PrismMC sur le PIE (officiel)](#prismmc-sur-le-pie-officiel)
     - [UltimMC (crack)](#ultimmc-crack)
   - [Configurer une instance](#configurer-une-instance)
   - [S’authentifier via discord](#sauthentifier-via-discord)
@@ -41,6 +45,38 @@ Il est possible d’utiliser de nombreux launchers. Cependant, nous allons nous 
   Une fois l'installation terminée, lancez PrismMC. Le launcher vous demandera de vous authentifier. **Connectez-vous** à votre compte Microsoft sur lequel Minecraft est installé.
 
   Vous devriez ensuite tomber sur cette page :
+
+  ![image.png](assets/image-0.png)
+  
+  </blockquote></p>
+</details>
+
+<details name="issue">
+  <summary>
+  
+  ### PrismMC sur le PIE (officiel)
+
+  </summary>
+  <p><blockquote>
+
+  Ouvrez un terminal et exécutez la commande suivante :
+  ```bash
+  nix-shell -p prismlauncher
+  ```
+  
+  Cette commande vous ouvrira un terminal différent de celui que vous avez l'habitude de voir, un shell nix. Dans ce dernier, lancez la commande :
+  ```bash
+  prismlauncher
+  ```
+
+  Choisissez la langue de votre choix.
+
+  > [!WARNING]
+  > Veillez à selecionner la version 17 de Java, le modpack de la MoulinetteMC n'étant compatible qu'avec cette version.
+
+  Connectez vous ensuite à votre compte Minecraft / Microsoft en suivant les instructions à l'écran.
+
+  Une fois ces étapes faites, vous devriez tomber sur cette page :
 
   ![image.png](assets/image-0.png)
   
